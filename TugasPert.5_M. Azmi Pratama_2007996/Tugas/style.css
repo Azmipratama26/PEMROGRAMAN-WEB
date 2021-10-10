@@ -1,0 +1,39 @@
+.left { text-align: left;}
+.right { text-align: right;}
+.center { text-align: center;}
+.justify { text-align: justify;}
+
+/* style slider*/
+
+.carousel-item {
+    height: 570px;
+}
+.carousel-item img{
+    margin-top: -100px;
+    margin-bottom: -100px;
+}
+
+/*------*/
+.home-children-div{
+    border:solid blue;
+    width: 60%;
+    height: 300px;
+    box-sizing: border-box;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.home-children-div a{
+    color : white;
+    text-decoration: none;
+}
+.clearfix{
+    content: "";
+    clear: both;
+    display:table;
+}
+
+/*-----*
